@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2b2558c0d14f1734b96ad5a74556b3ca, type: 3}
+    - {fileID: 2800000, guid: a20662c9c52dbec40be19810f173dfbb, type: 3}
+    - {fileID: 2800000, guid: 38fb06ea3a07cd24e894095e608786cf, type: 3}
+    - {fileID: 2800000, guid: e3fd14279490e994091ca3cb7fbf3eb6, type: 3}
+    - {fileID: 2800000, guid: afe1ca7780342ec4dbce59de35cfcaea, type: 3}
+    - {fileID: 2800000, guid: 33deafd8c9ed3944692a1a25254dbcc0, type: 3}
+    - {fileID: 2800000, guid: 70f4b563209c9f74a84173ffa6511da0, type: 3}
+    - {fileID: 2800000, guid: 989729df60ab6e24e862cd9958304178, type: 3}
+    - {fileID: 2800000, guid: fe9f2f4057d6f61498124653044da909, type: 3}
+    - {fileID: 2800000, guid: cd28fef52a5b9ef4782fafdc2642803e, type: 3}
+    - {fileID: 2800000, guid: 9c473e30b910bfa49b744d260782a1e5, type: 3}
+    - {fileID: 2800000, guid: c6a121706cc3e6e43adb81dcf13e7b72, type: 3}
+    - {fileID: 2800000, guid: 1e8041d2fd68b5d48abba99dc7e76844, type: 3}
+    - {fileID: 2800000, guid: f5e697d7da81b3a45b2970c90b2b60fb, type: 3}
+    - {fileID: 2800000, guid: 52f0cb41c852364459ce9cab4c2014c1, type: 3}
+    - {fileID: 2800000, guid: 42573cf753e007847ac83456b55c543d, type: 3}
+    - {fileID: 2800000, guid: 5e5fe1198260b964da59c27867e38844, type: 3}
+    - {fileID: 2800000, guid: 457b7e39f8f49024497bc2653ed8acab, type: 3}
+    - {fileID: 2800000, guid: 6b26efa9758f409438a48780acea7a75, type: 3}
+    - {fileID: 2800000, guid: 5380488db94a10e4486fcb59504ca83c, type: 3}
+    - {fileID: 2800000, guid: a74acd59c0934a44ea4dc58c316f9967, type: 3}
+    - {fileID: 2800000, guid: 87e146ed4dc8d074587580a3e1f16c97, type: 3}
+    - {fileID: 2800000, guid: fb9e2daa818184a47a6ff5dc5d0f9a00, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9c473e30b910bfa49b744d260782a1e5: 21300000
+    - fe9f2f4057d6f61498124653044da909: 21300000
+    - c6a121706cc3e6e43adb81dcf13e7b72: 21300000
+    - 2b2558c0d14f1734b96ad5a74556b3ca: 21300000
+    - 52f0cb41c852364459ce9cab4c2014c1: 21300000
+    - 1e8041d2fd68b5d48abba99dc7e76844: 21300000
+    - 70f4b563209c9f74a84173ffa6511da0: 21300000
+    - cd28fef52a5b9ef4782fafdc2642803e: 21300000
+    - e3fd14279490e994091ca3cb7fbf3eb6: 21300000
+    - afe1ca7780342ec4dbce59de35cfcaea: 21300000
+    - f5e697d7da81b3a45b2970c90b2b60fb: 21300000
+    - 42573cf753e007847ac83456b55c543d: 21300000
+    - 33deafd8c9ed3944692a1a25254dbcc0: 21300000
+    - 5e5fe1198260b964da59c27867e38844: 21300000
+    - 457b7e39f8f49024497bc2653ed8acab: 21300000
+    - a74acd59c0934a44ea4dc58c316f9967: 21300000
+    - 6b26efa9758f409438a48780acea7a75: 21300000
+    - a20662c9c52dbec40be19810f173dfbb: 21300000
+    - fb9e2daa818184a47a6ff5dc5d0f9a00: 21300000
+    - 38fb06ea3a07cd24e894095e608786cf: 21300000
+    - 5380488db94a10e4486fcb59504ca83c: 21300000
+    - 87e146ed4dc8d074587580a3e1f16c97: 21300000
+    - 989729df60ab6e24e862cd9958304178: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9c473e30b910bfa49b744d260782a1e5, type: 3}
+  - {fileID: 21300000, guid: fe9f2f4057d6f61498124653044da909, type: 3}
+  - {fileID: 21300000, guid: c6a121706cc3e6e43adb81dcf13e7b72, type: 3}
+  - {fileID: 21300000, guid: 2b2558c0d14f1734b96ad5a74556b3ca, type: 3}
+  - {fileID: 21300000, guid: 52f0cb41c852364459ce9cab4c2014c1, type: 3}
+  - {fileID: 21300000, guid: 1e8041d2fd68b5d48abba99dc7e76844, type: 3}
+  - {fileID: 21300000, guid: 70f4b563209c9f74a84173ffa6511da0, type: 3}
+  - {fileID: 21300000, guid: cd28fef52a5b9ef4782fafdc2642803e, type: 3}
+  - {fileID: 21300000, guid: e3fd14279490e994091ca3cb7fbf3eb6, type: 3}
+  - {fileID: 21300000, guid: afe1ca7780342ec4dbce59de35cfcaea, type: 3}
+  - {fileID: 21300000, guid: f5e697d7da81b3a45b2970c90b2b60fb, type: 3}
+  - {fileID: 21300000, guid: 42573cf753e007847ac83456b55c543d, type: 3}
+  - {fileID: 21300000, guid: 33deafd8c9ed3944692a1a25254dbcc0, type: 3}
+  - {fileID: 21300000, guid: 5e5fe1198260b964da59c27867e38844, type: 3}
+  - {fileID: 21300000, guid: 457b7e39f8f49024497bc2653ed8acab, type: 3}
+  - {fileID: 21300000, guid: a74acd59c0934a44ea4dc58c316f9967, type: 3}
+  - {fileID: 21300000, guid: 6b26efa9758f409438a48780acea7a75, type: 3}
+  - {fileID: 21300000, guid: a20662c9c52dbec40be19810f173dfbb, type: 3}
+  - {fileID: 21300000, guid: fb9e2daa818184a47a6ff5dc5d0f9a00, type: 3}
+  - {fileID: 21300000, guid: 38fb06ea3a07cd24e894095e608786cf, type: 3}
+  - {fileID: 21300000, guid: 5380488db94a10e4486fcb59504ca83c, type: 3}
+  - {fileID: 21300000, guid: 87e146ed4dc8d074587580a3e1f16c97, type: 3}
+  - {fileID: 21300000, guid: 989729df60ab6e24e862cd9958304178, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UI_Circle100Bold
+  - UI_Circle35A
+  - UI_CircleBorder
+  - UI_tick
+  - UI_Icon_Brush
+  - ui_eraser
+  - UI_cancel
+  - UI_Circle100
+  - loading
+  - UI_arrow
+  - ui_eraserBG
+  - UI_Icon_Cubes
+  - UI_border
+  - UI_Icon_Target
+  - UI_paint
+  - UI_PanelBG
+  - UI_paintBG
+  - DrawingForeground
+  - UI_recycling-bin
+  - DrawingMask
+  - UI_paintBGColorable
+  - UI_panelsBG
+  - UI_Circle35
+  m_RenderDataMap: {}
+  m_Tag: MainUI
+  m_IsVariant: 0
